@@ -1,8 +1,9 @@
 # trainline
 Rest service
 
+
 ##Generate API DOC
-#docs": "apidoc -i ./modules/trains -o ./public"
+NPM docs
 
 ##Generate Start App
 "start": "node ./bin/www",
