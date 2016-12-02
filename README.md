@@ -1,12 +1,11 @@
 # trainline
 Rest service
 
-
 ##Generate API DOC
 NPM docs
 
-##Generate Start App
-"start": "node ./bin/www",
+##Start Rest service
+NPM start
 
-##Run test
-"test": "jasmine-node spec --verbose --color --autotest --watch ./modules/"
+##Run Jasmine tests
+NPM test
